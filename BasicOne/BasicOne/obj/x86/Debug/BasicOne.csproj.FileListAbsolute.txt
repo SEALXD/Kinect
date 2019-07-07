@@ -1,0 +1,80 @@
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\BasicOne.exe
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\BasicOne.pdb
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.UI.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.Util.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\ZedGraph.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.pdb
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.xml
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.UI.pdb
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.UI.xml
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.Util.pdb
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.Util.xml
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\ZedGraph.xml
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.Properties.Resources.resources
+E:\Course\Kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.csproj.GenerateResource.Cache
+E:\Course\Kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.exe
+E:\Course\Kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.pdb
+E:\Course\Kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.Form1.resources
+E:\Course\Kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.csprojResolveAssemblyReference.cache
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+E:\Course\Kinect\Demos\BasicOne\BasicOne\bin\Debug\BasicOne.exe.config
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.csprojAssemblyReference.cache
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.Form1.resources
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.Properties.Resources.resources
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.csproj.GenerateResource.cache
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.csproj.CoreCompileInputs.cache
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.exe
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.pdb
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\FaceTrackData.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\FaceTrackLib.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\BasicOne.exe.config
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\BasicOne.exe
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\BasicOne.pdb
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Speech.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\ZedGraph.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.xml
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.UI.xml
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.Util.xml
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Microsoft.Kinect.xml
+E:\kinect\Demos\BasicOne\BasicOne\obj\x86\Debug\BasicOne.csproj.CopyComplete
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.CV.UI.dll
+E:\kinect\Demos\BasicOne\BasicOne\bin\Debug\Emgu.Util.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.csprojAssemblyReference.cache
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.Form1.resources
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.Properties.Resources.resources
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.csproj.GenerateResource.cache
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.csproj.CoreCompileInputs.cache
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.exe
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.pdb
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\FaceTrackData.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\FaceTrackLib.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\BasicOne.exe.config
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\BasicOne.exe
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\BasicOne.pdb
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Emgu.CV.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Emgu.CV.UI.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Emgu.Util.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Microsoft.Kinect.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Microsoft.Speech.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\ZedGraph.dll
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Emgu.CV.xml
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Emgu.CV.UI.xml
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Emgu.Util.xml
+E:\kinect\Demos\BasicOne - 副本\BasicOne\bin\Debug\Microsoft.Kinect.xml
+E:\kinect\Demos\BasicOne - 副本\BasicOne\obj\x86\Debug\BasicOne.csproj.CopyComplete
